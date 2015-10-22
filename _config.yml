@@ -2,6 +2,7 @@ name: mlg-test
 favicon: null
 layout_spectrum: 0.09290521591901779
 typography_spectrum: 0.9472359563224018
+title: MLG Test
 cta:
   domain: null
   bucket: null
