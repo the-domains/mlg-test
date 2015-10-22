@@ -1,6 +1,6 @@
 name: mlg-test
 favicon: null
-layout_spectrum: 0.09290521591901779
+layout_spectrum: 1
 typography_spectrum: 0.9472359563224018
 title: MLG Test
 cta:
@@ -16,8 +16,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.8242008273955435
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#6a6a6a'
+    - '#c3c3c3'
+    - '#383838'
+  brandStrength: 0.8125
   lightness: 0.6268598698079586
   saturation: 0.022839774377644062
   rhythmicContrast: 0.31941759842447937
